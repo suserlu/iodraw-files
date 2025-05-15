@@ -22,7 +22,7 @@
         <mxCell id="S6_ETggsWSAf3YiLtfF7-43" value="买家订单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="290" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S6_ETggsWSAf3YiLtfF7-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S6_ETggsWSAf3YiLtfF7-45" value="管理员订单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="290" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
