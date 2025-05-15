@@ -19,16 +19,16 @@
         <mxCell id="xT4Bj9fRhDunvOBMs3JU-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;管理员模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xT4Bj9fRhDunvOBMs3JU-6" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;个人信息查看&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="xT4Bj9fRhDunvOBMs3JU-6" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;个人信息查看&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xT4Bj9fRhDunvOBMs3JU-7" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;购物车添加&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="170" y="200" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xT4Bj9fRhDunvOBMs3JU-8" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;下单购买&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="xT4Bj9fRhDunvOBMs3JU-8" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;下单购买&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="220" y="200" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xT4Bj9fRhDunvOBMs3JU-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;查看订单历史&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="xT4Bj9fRhDunvOBMs3JU-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;查看订单历史&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="270" y="200" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
