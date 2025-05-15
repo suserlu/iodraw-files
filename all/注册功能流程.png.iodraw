@@ -60,8 +60,8 @@
         <mxCell id="by_J_zMEOxH2y7KttUVw-26" value="选择药品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="400" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="by_J_zMEOxH2y7KttUVw-34" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="490" width="80" height="80" as="geometry" />
+        <mxCell id="by_J_zMEOxH2y7KttUVw-34" value="信息是否有效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
