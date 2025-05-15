@@ -36,7 +36,7 @@
         <mxCell id="by_J_zMEOxH2y7KttUVw-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;填写用户信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="208" width="125" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="by_J_zMEOxH2y7KttUVw-11" value="注册成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="by_J_zMEOxH2y7KttUVw-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;注册成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="490" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
