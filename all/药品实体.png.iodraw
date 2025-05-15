@@ -22,6 +22,9 @@
         <mxCell id="DTNgvA3SsMOqQCQLp87h-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DTNgvA3SsMOqQCQLp87h-7" target="DTNgvA3SsMOqQCQLp87h-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DTNgvA3SsMOqQCQLp87h-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DTNgvA3SsMOqQCQLp87h-7" target="DTNgvA3SsMOqQCQLp87h-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DTNgvA3SsMOqQCQLp87h-7" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;药品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="360" width="100" height="60" as="geometry" />
         </mxCell>
@@ -45,9 +48,6 @@
         </mxCell>
         <mxCell id="DTNgvA3SsMOqQCQLp87h-14" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;所属分类&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="300" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="DTNgvA3SsMOqQCQLp87h-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="DTNgvA3SsMOqQCQLp87h-7" target="DTNgvA3SsMOqQCQLp87h-14">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
