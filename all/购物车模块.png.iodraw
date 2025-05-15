@@ -77,8 +77,8 @@
         <mxCell id="X_nXuH7G0qtzMyl2pgvy-150" value="删除药品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="590" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X_nXuH7G0qtzMyl2pgvy-156" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="560" width="80" height="80" as="geometry" />
+        <mxCell id="X_nXuH7G0qtzMyl2pgvy-156" value="数量是否有效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="105" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
