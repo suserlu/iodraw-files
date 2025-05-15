@@ -105,8 +105,8 @@
         <mxCell id="by_J_zMEOxH2y7KttUVw-43" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;信息是否有效&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="by_J_zMEOxH2y7KttUVw-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="by_J_zMEOxH2y7KttUVw-47" value="更新药品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="660" width="112.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
