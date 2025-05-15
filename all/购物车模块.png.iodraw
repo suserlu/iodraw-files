@@ -110,11 +110,14 @@
         <mxCell id="X_nXuH7G0qtzMyl2pgvy-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X_nXuH7G0qtzMyl2pgvy-145" target="X_nXuH7G0qtzMyl2pgvy-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="X_nXuH7G0qtzMyl2pgvy-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_nXuH7G0qtzMyl2pgvy-165" target="X_nXuH7G0qtzMyl2pgvy-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X_nXuH7G0qtzMyl2pgvy-165" value="生成订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="590" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X_nXuH7G0qtzMyl2pgvy-169" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="660" width="90" height="30" as="geometry" />
+        <mxCell id="X_nXuH7G0qtzMyl2pgvy-169" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="660" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
