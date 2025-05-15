@@ -7,6 +7,9 @@
         <mxCell id="S6_ETggsWSAf3YiLtfF7-36" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="30" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="S6_ETggsWSAf3YiLtfF7-37" value="买家提交订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
