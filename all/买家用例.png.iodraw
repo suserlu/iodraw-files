@@ -19,6 +19,9 @@
         <mxCell id="h_vncNt_HS_x_x2oJXty-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h_vncNt_HS_x_x2oJXty-6" target="h_vncNt_HS_x_x2oJXty-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GOXzT7DMDXJ5mbd2ZHir-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h_vncNt_HS_x_x2oJXty-6" target="GOXzT7DMDXJ5mbd2ZHir-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h_vncNt_HS_x_x2oJXty-6" value="买家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=宋体;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="130" y="200" width="50" height="110" as="geometry" />
         </mxCell>
