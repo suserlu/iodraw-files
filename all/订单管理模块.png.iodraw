@@ -19,6 +19,9 @@
         <mxCell id="S6_ETggsWSAf3YiLtfF7-41" value="用户类型判别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="190" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="S6_ETggsWSAf3YiLtfF7-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
