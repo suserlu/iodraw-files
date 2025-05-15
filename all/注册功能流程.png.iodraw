@@ -85,8 +85,8 @@
         <mxCell id="by_J_zMEOxH2y7KttUVw-38" value="保存药品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="610" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="by_J_zMEOxH2y7KttUVw-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="by_J_zMEOxH2y7KttUVw-41" value="修改药品信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
