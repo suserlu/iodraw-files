@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X_nXuH7G0qtzMyl2pgvy-6" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;选择药品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="208" width="125" height="22" as="geometry" />
+          <mxGeometry x="345" y="208" width="125" height="32" as="geometry" />
         </mxCell>
         <mxCell id="X_nXuH7G0qtzMyl2pgvy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X_nXuH7G0qtzMyl2pgvy-13" target="X_nXuH7G0qtzMyl2pgvy-17">
           <mxGeometry relative="1" as="geometry" />
@@ -139,6 +139,9 @@
         </mxCell>
         <mxCell id="X_nXuH7G0qtzMyl2pgvy-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.453;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X_nXuH7G0qtzMyl2pgvy-34" target="X_nXuH7G0qtzMyl2pgvy-41">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X_nXuH7G0qtzMyl2pgvy-43" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;选择药品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="218" width="125" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
