@@ -7,11 +7,11 @@
         <mxCell id="xT4Bj9fRhDunvOBMs3JU-1" value="药店药品管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xT4Bj9fRhDunvOBMs3JU-2" value="药店药品管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xT4Bj9fRhDunvOBMs3JU-2" value="买家模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT4Bj9fRhDunvOBMs3JU-3" value="药店药品管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
