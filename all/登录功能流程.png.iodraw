@@ -49,6 +49,9 @@
         <mxCell id="_6qf7HRkTdOglHRLQkJg-16" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;填写用户信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_6qf7HRkTdOglHRLQkJg-21" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;创建用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
