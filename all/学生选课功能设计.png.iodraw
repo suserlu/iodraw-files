@@ -59,7 +59,7 @@
         <mxCell id="HB_7JHB0_f4ic2NBYI-W-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HB_7JHB0_f4ic2NBYI-W-21" target="HB_7JHB0_f4ic2NBYI-W-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HB_7JHB0_f4ic2NBYI-W-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;选择用户身份&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;访问选课中心&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HB_7JHB0_f4ic2NBYI-W-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HB_7JHB0_f4ic2NBYI-W-26" target="HB_7JHB0_f4ic2NBYI-W-28">
@@ -97,7 +97,7 @@
         <mxCell id="HB_7JHB0_f4ic2NBYI-W-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HB_7JHB0_f4ic2NBYI-W-30" target="HB_7JHB0_f4ic2NBYI-W-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HB_7JHB0_f4ic2NBYI-W-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;填写对应信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;筛选，搜索课程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HB_7JHB0_f4ic2NBYI-W-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HB_7JHB0_f4ic2NBYI-W-32" target="HB_7JHB0_f4ic2NBYI-W-33">
