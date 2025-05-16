@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lEH-bcHgntnBW64_7SkC-16" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;保存成绩&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="615" width="120" height="40" as="geometry" />
+          <mxGeometry x="345" y="620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lEH-bcHgntnBW64_7SkC-17" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="690" width="90" height="30" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lEH-bcHgntnBW64_7SkC-28" value="验证成绩格式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="430" width="140" height="50" as="geometry" />
+          <mxGeometry x="335" y="420" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
