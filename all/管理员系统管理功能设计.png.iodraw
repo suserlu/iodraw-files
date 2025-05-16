@@ -40,23 +40,8 @@
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rdG8_FN0GoYO-QpDYBsN-30" target="rdG8_FN0GoYO-QpDYBsN-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdG8_FN0GoYO-QpDYBsN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rdG8_FN0GoYO-QpDYBsN-30" target="rdG8_FN0GoYO-QpDYBsN-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;院系管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="230" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rdG8_FN0GoYO-QpDYBsN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rdG8_FN0GoYO-QpDYBsN-35" target="rdG8_FN0GoYO-QpDYBsN-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rdG8_FN0GoYO-QpDYBsN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rdG8_FN0GoYO-QpDYBsN-35" target="rdG8_FN0GoYO-QpDYBsN-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rdG8_FN0GoYO-QpDYBsN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rdG8_FN0GoYO-QpDYBsN-35" target="rdG8_FN0GoYO-QpDYBsN-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rdG8_FN0GoYO-QpDYBsN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rdG8_FN0GoYO-QpDYBsN-35" target="rdG8_FN0GoYO-QpDYBsN-47">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;课程管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="230" width="100" height="50" as="geometry" />
@@ -74,16 +59,16 @@
           <mxGeometry x="20" y="330" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个人信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="330" width="30" height="110" as="geometry" />
+          <mxGeometry x="250" y="510" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;课程列表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="330" width="30" height="110" as="geometry" />
+          <mxGeometry x="310" y="510" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;学生管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="330" width="30" height="110" as="geometry" />
+          <mxGeometry x="364" y="510" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;成绩录入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="330" width="30" height="110" as="geometry" />
+          <mxGeometry x="420" y="510" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;院系管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="510" width="30" height="110" as="geometry" />
