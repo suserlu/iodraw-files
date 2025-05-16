@@ -83,6 +83,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-34" value="未有余量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HB_7JHB0_f4ic2NBYI-W-24">
+          <mxGeometry x="-0.0413" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HB_7JHB0_f4ic2NBYI-W-26" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;根据课程状态判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="150" height="60" as="geometry" />
         </mxCell>
