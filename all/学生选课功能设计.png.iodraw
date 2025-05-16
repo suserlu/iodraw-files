@@ -4,8 +4,59 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HB_7JHB0_f4ic2NBYI-W-1" value="flowchart TD&#xa;    A[学生登录] --&gt; B[访问课程列表]&#xa;    B --&gt; C[筛选或搜索课程]&#xa;    C --&gt; D[查看课程详情]&#xa;    D --&gt; E{决定是否选课}&#xa;    &#xa;    E --&gt;|不选| B&#xa;    &#xa;    E --&gt;|选课| F{检查是否已选此课}&#xa;    F --&gt;|已选| G[显示已选提示]&#xa;    G --&gt; B&#xa;    &#xa;    F --&gt;|未选| H{检查课程容量}&#xa;    H --&gt;|已满| I[显示课程已满提示]&#xa;    I --&gt; B&#xa;    &#xa;    H --&gt;|未满| J{检查学分限制}&#xa;    J --&gt;|超出限制| K[显示学分超限提示]&#xa;    K --&gt; B&#xa;    &#xa;    J --&gt;|未超限| L{检查时间冲突}&#xa;    L --&gt;|有冲突| M[显示时间冲突提示]&#xa;    M --&gt; B&#xa;    &#xa;    L --&gt;|无冲突| N[创建选课记录]&#xa;    N --&gt; O[更新课程选课人数]&#xa;    O --&gt; P[显示选课成功提示]&#xa;    P --&gt; Q[查看已选课程]&#xa;    &#xa;    Q --&gt; R{决定是否退选}&#xa;    R --&gt;|不退选| Q&#xa;    &#xa;    R --&gt;|退选| S{检查课程状态}&#xa;    S --&gt;|不可退选状态| T[显示不可退选提示]&#xa;    T --&gt; Q&#xa;    &#xa;    S --&gt;|可退选状态| U[删除选课记录]&#xa;    U --&gt; V[更新课程选课人数]&#xa;    V --&gt; W[显示退选成功提示]&#xa;    W --&gt; B" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="330" width="260" height="600" as="geometry" />
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HB_7JHB0_f4ic2NBYI-W-3" target="HB_7JHB0_f4ic2NBYI-W-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HB_7JHB0_f4ic2NBYI-W-5" target="HB_7JHB0_f4ic2NBYI-W-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-5" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;访问选课中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HB_7JHB0_f4ic2NBYI-W-10" target="HB_7JHB0_f4ic2NBYI-W-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HB_7JHB0_f4ic2NBYI-W-6">
+          <mxGeometry x="-0.0857" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HB_7JHB0_f4ic2NBYI-W-10" target="HB_7JHB0_f4ic2NBYI-W-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-9" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HB_7JHB0_f4ic2NBYI-W-8">
+          <mxGeometry x="-0.0345" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;信息是否有效&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HB_7JHB0_f4ic2NBYI-W-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-12" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;创建账户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HB_7JHB0_f4ic2NBYI-W-14" target="HB_7JHB0_f4ic2NBYI-W-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-14" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;填写用户信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HB_7JHB0_f4ic2NBYI-W-16" target="HB_7JHB0_f4ic2NBYI-W-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-16" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;注册成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HB_7JHB0_f4ic2NBYI-W-17" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="590" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
