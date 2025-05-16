@@ -1,0 +1,13 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram id="kthhD3B_ues98skoKT0s" name="第 1 页">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lEH-bcHgntnBW64_7SkC-1" value="flowchart TD&#xa;    A[教师登录] --&gt; B[查看教授课程列表]&#xa;    B --&gt; C[选择特定课程]&#xa;    C --&gt; D[查看选课学生名单]&#xa;    &#xa;    D --&gt; E{选择成绩录入方式}&#xa;    &#xa;    E --&gt;|单个录入| F[选择学生]&#xa;    F --&gt; G[输入成绩]&#xa;    G --&gt; H{验证成绩格式}&#xa;    H --&gt;|格式错误| I[显示错误提示]&#xa;    I --&gt; G&#xa;    H --&gt;|格式正确| J[系统计算绩点]&#xa;    J --&gt; K[保存成绩]&#xa;    &#xa;    E --&gt;|批量导入| L[下载导入模板]&#xa;    L --&gt; M[填写成绩]&#xa;    M --&gt; N[上传成绩文件]&#xa;    N --&gt; O{验证文件格式}&#xa;    O --&gt;|格式错误| P[显示错误提示]&#xa;    P --&gt; N&#xa;    O --&gt;|格式正确| Q[解析成绩数据]&#xa;    Q --&gt; R{验证成绩数据}&#xa;    R --&gt;|数据错误| S[显示错误提示]&#xa;    S --&gt; N&#xa;    R --&gt;|数据正确| T[批量保存成绩]&#xa;    &#xa;    K --&gt; U[查看成绩统计]&#xa;    T --&gt; U&#xa;    &#xa;    U --&gt; V[查看成绩分布图]&#xa;    V --&gt; W[导出成绩单]&#xa;    &#xa;    D --&gt; X[筛选学生]&#xa;    D --&gt; Y[导出学生名单]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="240" height="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
