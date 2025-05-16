@@ -26,16 +26,13 @@
           <mxGeometry x="570" y="230" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;编辑用户信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="510" width="30" height="110" as="geometry" />
+          <mxGeometry x="100" y="440" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;重置用户密码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="510" width="30" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="rdG8_FN0GoYO-QpDYBsN-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;成绩查询&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="510" width="30" height="110" as="geometry" />
+          <mxGeometry x="150" y="440" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;创建新用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="510" width="30" height="110" as="geometry" />
+          <mxGeometry x="50" y="440" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rdG8_FN0GoYO-QpDYBsN-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个人信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="510" width="30" height="110" as="geometry" />
