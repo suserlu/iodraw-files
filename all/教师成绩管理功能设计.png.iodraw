@@ -4,8 +4,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lEH-bcHgntnBW64_7SkC-1" value="flowchart TD&#xa;    A[教师登录] --&gt; B[查看教授课程列表]&#xa;    B --&gt; C[选择特定课程]&#xa;    C --&gt; D[查看选课学生名单]&#xa;    &#xa;    D --&gt; E{选择成绩录入方式}&#xa;    &#xa;    E --&gt;|单个录入| F[选择学生]&#xa;    F --&gt; G[输入成绩]&#xa;    G --&gt; H{验证成绩格式}&#xa;    H --&gt;|格式错误| I[显示错误提示]&#xa;    I --&gt; G&#xa;    H --&gt;|格式正确| J[系统计算绩点]&#xa;    J --&gt; K[保存成绩]&#xa;    &#xa;    E --&gt;|批量导入| L[下载导入模板]&#xa;    L --&gt; M[填写成绩]&#xa;    M --&gt; N[上传成绩文件]&#xa;    N --&gt; O{验证文件格式}&#xa;    O --&gt;|格式错误| P[显示错误提示]&#xa;    P --&gt; N&#xa;    O --&gt;|格式正确| Q[解析成绩数据]&#xa;    Q --&gt; R{验证成绩数据}&#xa;    R --&gt;|数据错误| S[显示错误提示]&#xa;    S --&gt; N&#xa;    R --&gt;|数据正确| T[批量保存成绩]&#xa;    &#xa;    K --&gt; U[查看成绩统计]&#xa;    T --&gt; U&#xa;    &#xa;    U --&gt; V[查看成绩分布图]&#xa;    V --&gt; W[导出成绩单]&#xa;    &#xa;    D --&gt; X[筛选学生]&#xa;    D --&gt; Y[导出学生名单]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="520" y="220" width="240" height="530" as="geometry" />
+        <mxCell id="lEH-bcHgntnBW64_7SkC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lEH-bcHgntnBW64_7SkC-3" target="lEH-bcHgntnBW64_7SkC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lEH-bcHgntnBW64_7SkC-5" target="lEH-bcHgntnBW64_7SkC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;查看教授课程列表&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lEH-bcHgntnBW64_7SkC-10" target="lEH-bcHgntnBW64_7SkC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-7" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lEH-bcHgntnBW64_7SkC-6">
+          <mxGeometry x="-0.0857" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-10" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;验证信息&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lEH-bcHgntnBW64_7SkC-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登陆成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lEH-bcHgntnBW64_7SkC-14" target="lEH-bcHgntnBW64_7SkC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;填写对应信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lEH-bcHgntnBW64_7SkC-16" target="lEH-bcHgntnBW64_7SkC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-16" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;进入对应页面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lEH-bcHgntnBW64_7SkC-17" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="590" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
