@@ -46,7 +46,7 @@
         <mxCell id="LvJBzC8ufK9haTMu4S1S-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查看选课学生&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="340" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LvJBzC8ufK9haTMu4S1S-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查看课程列表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="LvJBzC8ufK9haTMu4S1S-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查看可选课程列表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="340" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LvJBzC8ufK9haTMu4S1S-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查看选课学生名单&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
