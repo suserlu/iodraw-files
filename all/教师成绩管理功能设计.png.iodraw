@@ -51,9 +51,6 @@
         <mxCell id="lEH-bcHgntnBW64_7SkC-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;系统计算绩点&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="410" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lEH-bcHgntnBW64_7SkC-26" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
