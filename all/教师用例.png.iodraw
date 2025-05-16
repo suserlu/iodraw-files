@@ -61,8 +61,8 @@
         <mxCell id="VLnYotgOoBPLHcFIwv56-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查看课程列表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="340" width="30" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VLnYotgOoBPLHcFIwv56-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;添加院系&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="30" height="110" as="geometry" />
+        <mxCell id="VLnYotgOoBPLHcFIwv56-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查看选课学生名单&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="30" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VLnYotgOoBPLHcFIwv56-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;修改院系信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="30" height="110" as="geometry" />
