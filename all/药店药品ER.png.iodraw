@@ -15,7 +15,7 @@
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-1" value="买家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="50" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XZqVjY0h23dKM5ZnOFyz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XZqVjY0h23dKM5ZnOFyz-2" target="XZqVjY0h23dKM5ZnOFyz-14">
+        <mxCell id="XZqVjY0h23dKM5ZnOFyz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XZqVjY0h23dKM5ZnOFyz-2" target="XZqVjY0h23dKM5ZnOFyz-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-18" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XZqVjY0h23dKM5ZnOFyz-15">
@@ -89,7 +89,7 @@
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-8" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XZqVjY0h23dKM5ZnOFyz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZqVjY0h23dKM5ZnOFyz-14" target="XZqVjY0h23dKM5ZnOFyz-5">
+        <mxCell id="XZqVjY0h23dKM5ZnOFyz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XZqVjY0h23dKM5ZnOFyz-14" target="XZqVjY0h23dKM5ZnOFyz-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-20" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XZqVjY0h23dKM5ZnOFyz-16">
