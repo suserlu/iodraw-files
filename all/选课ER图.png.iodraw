@@ -51,10 +51,10 @@
         <mxCell id="ar-d2LeLP79tuSXen3SV-131" value="隶属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="240" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ar-d2LeLP79tuSXen3SV-140" value="隶属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ar-d2LeLP79tuSXen3SV-140" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="380" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ar-d2LeLP79tuSXen3SV-141" value="隶属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ar-d2LeLP79tuSXen3SV-141" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="380" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
