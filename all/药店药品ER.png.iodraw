@@ -10,6 +10,12 @@
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-2" value="卖家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="160" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="XZqVjY0h23dKM5ZnOFyz-4" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="390" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZqVjY0h23dKM5ZnOFyz-5" value="买家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
