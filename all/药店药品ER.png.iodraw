@@ -69,10 +69,10 @@
           <mxGeometry x="590" y="170" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-23" value="药品信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="90" height="50" as="geometry" />
+          <mxGeometry x="440" y="340" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XZqVjY0h23dKM5ZnOFyz-24" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="180" width="80" height="50" as="geometry" />
+        <mxCell id="XZqVjY0h23dKM5ZnOFyz-24" value="隶属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="260" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
