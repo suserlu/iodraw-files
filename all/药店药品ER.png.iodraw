@@ -59,6 +59,9 @@
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-6" value="订单明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="350" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="XZqVjY0h23dKM5ZnOFyz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZqVjY0h23dKM5ZnOFyz-7" target="XZqVjY0h23dKM5ZnOFyz-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-7" value="购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="90" height="50" as="geometry" />
         </mxCell>
@@ -91,6 +94,9 @@
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-14" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZqVjY0h23dKM5ZnOFyz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZqVjY0h23dKM5ZnOFyz-23" target="XZqVjY0h23dKM5ZnOFyz-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-23" value="药品信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="350" width="90" height="50" as="geometry" />
