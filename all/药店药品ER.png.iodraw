@@ -24,13 +24,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-2" value="卖家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="120" width="90" height="50" as="geometry" />
+          <mxGeometry x="585" y="50" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-4" value="订单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="145" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-5" value="药品分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="240" width="90" height="50" as="geometry" />
+          <mxGeometry x="440" y="170" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-6" value="订单明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="560" width="90" height="50" as="geometry" />
@@ -66,7 +66,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-14" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="240" width="80" height="50" as="geometry" />
+          <mxGeometry x="590" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZqVjY0h23dKM5ZnOFyz-23" value="药品分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
