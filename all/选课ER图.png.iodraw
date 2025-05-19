@@ -19,8 +19,8 @@
         <mxCell id="ar-d2LeLP79tuSXen3SV-129" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;选课记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ar-d2LeLP79tuSXen3SV-131" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="190" width="80" height="80" as="geometry" />
+        <mxCell id="ar-d2LeLP79tuSXen3SV-131" value="隶属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
