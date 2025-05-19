@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XZqVjY0h23dKM5ZnOFyz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZqVjY0h23dKM5ZnOFyz-1" target="XZqVjY0h23dKM5ZnOFyz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-1" value="买家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="90" height="50" as="geometry" />
         </mxCell>
@@ -21,6 +24,9 @@
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-7" value="购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZqVjY0h23dKM5ZnOFyz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZqVjY0h23dKM5ZnOFyz-8" target="XZqVjY0h23dKM5ZnOFyz-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XZqVjY0h23dKM5ZnOFyz-8" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="110" height="60" as="geometry" />
